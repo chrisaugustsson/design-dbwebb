@@ -215,22 +215,23 @@
         },
         {
             "name": "mos/anax-flat",
-            "version": "v1.1.6",
+            "version": "v1.1.11",
             "source": {
                 "type": "git",
                 "url": "https://github.com/canax/anax-flat.git",
-                "reference": "79d3a6023fe88bca1783e29a7247bcdd297ae7a5"
+                "reference": "8c763a9d0344475e1058ef345c48750077c3aac8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/canax/anax-flat/zipball/79d3a6023fe88bca1783e29a7247bcdd297ae7a5",
-                "reference": "79d3a6023fe88bca1783e29a7247bcdd297ae7a5",
+                "url": "https://api.github.com/repos/canax/anax-flat/zipball/8c763a9d0344475e1058ef345c48750077c3aac8",
+                "reference": "8c763a9d0344475e1058ef345c48750077c3aac8",
                 "shasum": ""
             },
             "require": {
                 "mos/anax": "^2.5",
                 "mos/cimage": "^0.7",
                 "mos/ctextfilter": "^1.2",
+                "php": ">=5.6",
                 "symfony/yaml": "^3.1"
             },
             "suggest": {
@@ -261,20 +262,20 @@
                 "micro",
                 "mvc"
             ],
-            "time": "2017-11-02T12:44:57+00:00"
+            "time": "2017-11-09T15:28:44+00:00"
         },
         {
             "name": "mos/cimage",
-            "version": "v0.7.19",
+            "version": "v0.7.20",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mosbth/cimage.git",
-                "reference": "f9604518e478a5097f29f991b61ba8ee36e7e5ba"
+                "reference": "cd142c58806c8edb6164a12a20e120eb7f436dfb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mosbth/cimage/zipball/f9604518e478a5097f29f991b61ba8ee36e7e5ba",
-                "reference": "f9604518e478a5097f29f991b61ba8ee36e7e5ba",
+                "url": "https://api.github.com/repos/mosbth/cimage/zipball/cd142c58806c8edb6164a12a20e120eb7f436dfb",
+                "reference": "cd142c58806c8edb6164a12a20e120eb7f436dfb",
                 "shasum": ""
             },
             "require": {
@@ -321,7 +322,7 @@
                 "image",
                 "imageprocessing"
             ],
-            "time": "2017-03-30T22:47:55+00:00"
+            "time": "2017-11-06T09:24:47+00:00"
         },
         {
             "name": "mos/ctextfilter",
@@ -422,16 +423,16 @@
         },
         {
             "name": "symfony/yaml",
-            "version": "v3.3.10",
+            "version": "v3.3.11",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/yaml.git",
-                "reference": "8c7bf1e7d5d6b05a690b715729cb4cd0c0a99c46"
+                "reference": "0938408c4faa518d95230deabb5f595bf0de31b9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/yaml/zipball/8c7bf1e7d5d6b05a690b715729cb4cd0c0a99c46",
-                "reference": "8c7bf1e7d5d6b05a690b715729cb4cd0c0a99c46",
+                "url": "https://api.github.com/repos/symfony/yaml/zipball/0938408c4faa518d95230deabb5f595bf0de31b9",
+                "reference": "0938408c4faa518d95230deabb5f595bf0de31b9",
                 "shasum": ""
             },
             "require": {
@@ -473,7 +474,7 @@
             ],
             "description": "Symfony Yaml Component",
             "homepage": "https://symfony.com",
-            "time": "2017-10-05T14:43:42+00:00"
+            "time": "2017-11-10T18:26:04+00:00"
         }
     ],
     "packages-dev": [],
