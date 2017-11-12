@@ -11,8 +11,7 @@ och användbarhet för webbplatsen med syftet att skapa en korrekt och användar
 
 Läs mer här: [dbwebb course design](http://dbwebb.se/design).
 
-Källkoden för denna sidan hittar du på GitHub: [Länk till github](https://github.com/chrisaugustsson/design/tree/1.1.0)
+Källkoden för denna sidan hittar du på GitHub: [Länk till github](https://github.com/chrisaugustsson/design-dbwebb)
 
-Här hittar du temat på Gihub: [Länk till github](https://github.com/chrisaugustsson/anax-flat-theme/tree/1.0.0)
 
 Skapad av Christopher Augustsson.
