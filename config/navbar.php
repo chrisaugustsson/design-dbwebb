@@ -33,6 +33,18 @@ return [
                 "url"   => $this->di->get("url")->create("about"),
                 "title" => t("About this website")
             ],
+
+            "grid" => [
+                "text"  => t("Grid"),
+                "url"   => $this->di->get("url")->create("grid"),
+                "title" => t("Grid")
+            ],
+
+            "typography" => [
+                "text"  => t("Typo"),
+                "url"   => $this->di->get("url")->create("typography"),
+                "title" => t("Grid")
+            ],
         ],
     ],
 
@@ -50,6 +62,13 @@ return [
         // Here comes the menu structure
         "items" => [
 
+            "home" => [
+                "text"  => t("Home"),
+                "url"   => $this->di->get("url")->create("index"),
+                "title" => t("Reports from kmom assignments"),
+                "mark-if-parent" => true,
+            ],
+
             "report" => [
                 "text"  => t("Report"),
                 "url"   => $this->di->get("url")->create("report"),
@@ -62,6 +81,20 @@ return [
                 "url"   => $this->di->get("url")->create("about"),
                 "title" => t("About this website")
             ],
+
+            "grid" => [
+                "text"  => t("Grid"),
+                "url"   => $this->di->get("url")->create("grid"),
+                "title" => t("About this website")
+            ],
+
+            "typography" => [
+                "text"  => t("Typo"),
+                "url"   => $this->di->get("url")->create("typography"),
+                "title" => t("Grid")
+            ],
+
+
         ],
     ],
 
