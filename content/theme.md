@@ -1,7 +1,7 @@
 Tema
 ==============================================
 
-[Theme-selector--->](../index.php/theme-selector)
+[Theme-selector--->](../htdocs/theme-selector)
 
 ###Base
 Temat "Base" är ett helt avskalat tema där färger är helt bortplockade. Endast svart
