@@ -83,5 +83,52 @@ return [
             "class"      => "fun",
             "stylesheets" => []
         ],
+
+        "Design" => "------------------------------------------------",
+
+        "design-element 1"       => [
+            "title"      => "Gradient, lines",
+            "class"      => "designelement1",
+            "stylesheets" => [
+                "css/designelement1.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+            ]
+        ],
+
+        "design-element 2"       => [
+            "title"      => "Background img, opacity, center content",
+            "class"      => "designelement2",
+            "stylesheets" => [
+                "css/designelement2.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+            ]
+        ],
+
+        "design-element 3"       => [
+            "title"      => "Texture, design img, full width",
+            "class"      => "designelemen3",
+            "stylesheets" => [
+                "css/designelement3.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+            ]
+        ],
+
+        "design-principle 1"       => [
+            "title"      => "Motion and unity",
+            "class"      => "design-principle 1",
+            "stylesheets" => [
+                "css/designprinciple1.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+            ]
+        ],
+
+        "design-principle 2"       => [
+            "title"      => "Assymetric and contrast",
+            "class"      => "design-principle 2",
+            "stylesheets" => [
+                "css/designprinciple2.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+            ]
+        ],
     ]
 ];
